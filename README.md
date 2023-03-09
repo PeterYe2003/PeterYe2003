@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Peter Ye. I’m interested in pure mathematics and computer science. I'm an incoming freshman at Yale University studying mathematics.
+- 👋 Hi, I’m Peter Ye. I’m interested in mathematics and computer science. I'm an freshman at Yale University studying mathematics.
 - 📫 How to reach me:
 - peter.ye@yale.edu, 503-807-8997
 
